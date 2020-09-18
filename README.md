@@ -1,3 +1,3 @@
 # Plurality
 
-Simula un votacion.
+Simula un votación.
